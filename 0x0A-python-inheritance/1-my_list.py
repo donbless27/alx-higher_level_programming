@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """Defines an subclass or child list class MyList."""
 
+
 class MyList(list):
     """A subclass of the list class."""
 
