@@ -1,9 +1,8 @@
 # 0x0C. Python - Almost a circle
 
-![alt](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/331/giphy.mp4)
-
 # Learning Objectives
 *At the end of this project, you are expected to be able to explain to anyone, without the help of Google:*
+
 # General
 - What is Unit testing and how to implement it in a large project
 - How to serialize and deserialize a Class
