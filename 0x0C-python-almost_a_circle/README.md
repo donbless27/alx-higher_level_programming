@@ -1,7 +1,8 @@
 # 0x0C. Python - Almost a circle
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/siwaOnlineGmbH-siwa-siwi-hagenberg-3kPDmoWdBpQPNhCnUG"width="50"/>
+  <img src="https://giphy.com/stickers/siwaOnlineGmbH-siwa-siwi-hagenberg-3kPDmoWdBpQPNhCnUG"width="20"/>
 </div>
+
 # Resources
 **Read or watch:**
 
