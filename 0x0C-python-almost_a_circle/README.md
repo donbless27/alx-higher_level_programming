@@ -1,12 +1,14 @@
 # 0x0C. Python - Almost a circle
-
+<div id="header" align="center">
+  <img src="https://giphy.com/stickers/siwaOnlineGmbH-siwa-siwi-hagenberg-3kPDmoWdBpQPNhCnUG"width="100"/>
+</div>
 # Resources
 **Read or watch:**
 
-* args/kwargs
-* JSON encoder and decoder
-* unittest module
-* Python test cheatsheet
+* [args/kwargs](#args/kwargs)
+* [JSON encoder and decoder](#JSON-encoder-and-decoder)
+* [unittest module](#unittest-module)
+* [Python test cheatsheet](#Python-test-cheatsheet)
 # Learning Objectives
 *At the end of this project, you are expected to be able to explain to anyone, without the help of Google:*
 
