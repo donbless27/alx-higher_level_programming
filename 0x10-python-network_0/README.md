@@ -7,8 +7,9 @@ Read or watch:
 
 ![HTTP](https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/images/HTTP.png)
 
-[](HTTP (HyperText Transfer Protocol)) (except: “TRACE” Request Method, “CONNECT” Request Method, Language Negotiation and “Options MultiView” and Character Set Negotiation)
-HTTP Cookies
+- [](HTTP (HyperText Transfer Protocol)) (except: “TRACE” Request Method, “CONNECT” Request Method, Language Negotiation and “Options MultiView” and Character Set Negotiation)
+- HTTP Cookies
+
 #Learning Objectives
 **At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
